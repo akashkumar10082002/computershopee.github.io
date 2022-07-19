@@ -1,0 +1,27 @@
+﻿
+
+.center {
+    text-align: center;
+}
+
+.page {
+    width: 542px;
+    position: center;
+    margin: 132px 0 0 178px;
+    left: 0;
+    right: 0;
+    top: -40px;
+    height: 653px;
+}
+
+.footer-pos {
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 600px;
+    bottom: 0;
+    left: 0;
+    right: 5px;
+    margin: auto;
+}
+
